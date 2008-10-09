@@ -1,0 +1,13 @@
+-*- mode:flyspell -*-
+
+mandelbrot.ml and mandeldraw.ml are the result of my first ever play with
+OCaml <URL:http://www.ocaml.org/>. As such I don't offer them as examples of
+good OCaml coding, I only offer them as something someone might want to
+play with and, perhaps, provide feedback about.
+
+The latest version will always live at:
+
+   <URL:http://www.davep.org/misc/#Fmandeldraw>
+
+Dave Pearson
+<davep@davep.org>
